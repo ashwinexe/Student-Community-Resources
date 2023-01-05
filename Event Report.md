@@ -29,10 +29,10 @@ DD.MM.YYYY
 
 ## Execution:
 
-Talk about a few notable moments from the event
-1. Describe how the event went
-2. Mention the challenges faced by the team in organizing the event 
-3. Talk about what went well, what could have been improved and which practices should not be repeated in the future
+1. Talk about a few notable moments from the event
+2. Describe how the event went
+3. Mention the challenges faced by the team in organizing the event 
+4. Talk about what went well, what could have been improved and which practices should not be repeated in the future
 ---
 
 ## Event Overview: 
