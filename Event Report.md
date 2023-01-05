@@ -32,7 +32,29 @@ DD.MM.YYYY
 1. Talk about a few notable moments from the event
 2. Describe how the event went
 3. Mention the challenges faced by the team in organizing the event 
-4. Talk about what went well, what could have been improved and which practices should not be repeated in the future
+4. Talk about what went well, what could have been improved and which practices should not be repeated in the future  
+
+    ### The positives: 
+
+    1. Talk about what the attendees enjoyed.
+    2. Talk about what went according to the plan
+    3. Mention about the team members who were wel-recieved by the attendees  
+
+    ### The negatives: 
+
+    1. Talk about what the attendees did not enjoy
+    2. Mention why the attendees did not like a few practices or mini-events in particular  
+
+        #### Practice 1: Why did they not enjoy it?
+        #### Practice 2: What went wrong?
+        #### Practice 3: What can be improved or scrapped entirely?
+    3. If there were any rude attendees or staff, how was it handled? Could it have been handled in a better way?  
+
+    ### What can be improved?  
+    1. Mention what plans are/were put into action to make the event a pleasant experience?
+    2. Talk in detail about what could have handled better (eg: The meals could have been planned in a better way, the technical check must've been more through, etc.)
+
+
 ---
 
 ## Event Overview: 
